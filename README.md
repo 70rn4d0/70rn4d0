@@ -14,8 +14,8 @@
   <a href="mailto:aech-chi@student.1337.ma">
     <img src="https://img.shields.io/badge/Send_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/70rn4d0">
-    <img src="https://img.shields.io/badge/View-Portfolio-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://discord.gg/5YW3WHvx">
+    <img src="https://img.shields.io/badge/add_me-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
